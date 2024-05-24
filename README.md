@@ -7,7 +7,7 @@
 
 ## 📫 How to reach me :
 
-<div align="center">
+<div 
     <a href="https://www.linkedin.com/in/mariam-elkhelawy-ab5183253/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
@@ -16,7 +16,6 @@
    
 ## 🛠 Language and tools :
 
-<br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github" />
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,postman" /><br>
