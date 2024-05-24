@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 👩‍💻 About Me :
+- I have graduated from computer science software engineering department , Mansoura University .
+- I started learning flutter im 2021 .
+- I'm avilable to work remotely .
+
+## 📫 How to reach me:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mariam-elkhelawy-ab5183253/)
+  [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mariamelkhelawy2001W@gmail.com)
+
 <!--
 **Mariam-Elkhelawy/Mariam-Elkhelawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
