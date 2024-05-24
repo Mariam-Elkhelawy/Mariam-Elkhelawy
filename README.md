@@ -20,7 +20,7 @@
  <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,intellij" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,intelliJ" />
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,postman" /><br>
 </div>
 
