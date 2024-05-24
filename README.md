@@ -7,16 +7,13 @@
 
 ## 📫 How to reach me:
 
-<br>
 <div align="center">
     <a href="https://www.linkedin.com/in/mariam-elkhelawy-ab5183253/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-    
+     <a href="mailto:mariamelkhelawy2001W@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 25px; width: 110px;"></a>
 
-  <a href="https://www.linkedin.com/in/mariam-elkhelawy-ab5183253/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" style="height: 23px; width: 108px;"></a>
-    <a href="mailto:mariamelkhelawy2001W@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 25px; width: 110px;"></a>
+
 
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mariam-elkhelawy-ab5183253/)
