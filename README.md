@@ -6,6 +6,8 @@
 - I'm avilable to work remotely .
 
 ## 📫 How to reach me:
+  <a href="mailto:mariamelkhelawy2001W@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 20px; width: auto;"></a>
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mariam-elkhelawy-ab5183253/)
   [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mariamelkhelawy2001W@gmail.com)
 
