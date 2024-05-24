@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
      <a href="mailto:mariamelkhelawy2001W@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px; width: 110px;"></a>
-    
+##    
 ## 🛠 Language and tools :
 
 <br>
@@ -20,7 +20,7 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github" />
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,postman" /><br>
 </div>
-
+##
 
 <!--
 **Mariam-Elkhelawy/Mariam-Elkhelawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
