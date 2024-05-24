@@ -20,8 +20,8 @@
  <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,c#,OOP" />
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,c#" />
+    <img src="https://skillicons.dev/icons?i=oop,androidstudio,vscode,figma,postman" /><br>
 </div>
 
 <!--
