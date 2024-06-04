@@ -33,13 +33,6 @@ I'm open to new opportunities where I can leverage my skills in Flutter developm
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,csharp,androidstudio,vscode,figma,xd,postman" /><br>
 </div>
 
-## 🌐 Connect with Me:
-<div align="center">
-    <a href="https://www.twitter.com/yourprofile" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" > </a>
-    <a href="https://www.dev.to/yourprofile" target="_blank">
-        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" > </a>
-</div>
 
 <!--
 **Mariam-Elkhelawy/Mariam-Elkhelawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
