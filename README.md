@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mariam Elkhelawy, a software engineer with a passion for Flutter development. I have graduated from the Computer Science Software Engineering department at Mansoura University. I started learning Flutter in 2021 and I'm available to work remotely.
+I'm Mariam Elkhelawy, a highly ambitious and detail-oriented software engineer with a passion for Flutter development . Since I started learning Flutter in 2021, I have been dedicated to developing applications that meet exact requirements and deliver exceptional user experiences. I learn quickly and am available to work.
 
 ## My Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam-Elkhelawy&show_icons=true&theme=dark)
