@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## My Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam-Elkhelawy&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Elkhelawy)
+
 ## 👩‍💻 About Me :
 - I have graduated from computer science software engineering department , Mansoura University .
 - I started learning flutter im 2021 .
