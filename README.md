@@ -30,7 +30,7 @@ I'm open to new opportunities where I can leverage my skills in Flutter developm
 
 ## 🛠 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,csharp,androidstudio,vscode,figma,xd,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,xd,postman" /><br>
 </div>
 
 
