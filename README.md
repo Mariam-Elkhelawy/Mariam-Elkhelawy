@@ -13,8 +13,8 @@ I'm Mariam Elkhelawy, a highly ambitious and detail-oriented software engineer w
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam-Elkhelawy&show_icons=true&theme=dark)
 
 <p align="center">
-    <a href="https://github.com/Ibrahim-Omran/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ibrahim Omran streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Omran&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Mariam-Elkhelawy/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mariam Elkhelawy streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Elkhelawy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <a href="https://github.com/Mariam-Elkhelawy/github-readme-stats"><img alt="Mariam Elkhelawy Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mariam-Elkhelawy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
