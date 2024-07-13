@@ -53,7 +53,17 @@ I'm open to new opportunities where I can leverage my skills in Flutter developm
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,xd,postman" /><br>
 </div>
 
+## 💜 Views and Followers:
 
+<a href="https://github.com/Mariam-Elkhelawy/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Mariam-Elkhelawy">
+</a>
+<a href="https://github.com/Mariam-Elkhelawy?tab=followers"><img src="https://img.shields.io/github/followers/Mariam-Elkhelawy?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
+<br/>
 <!--
 **Mariam-Elkhelawy/Mariam-Elkhelawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
