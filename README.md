@@ -28,16 +28,30 @@ I'm Mariam Elkhelawy, a highly ambitious and detail-oriented software engineer w
 
 ## 🌟 Available for New Opportunities:
 I'm open to new opportunities where I can leverage my skills in Flutter development and contribute to exciting projects. Feel free to reach out if you have an opportunity that aligns with my skills and experience.
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ## 👩‍💻 About Me:
 - 🎓 I graduated from the Computer Science Software Engineering department, Mansoura University.
 - 🚀 I started learning Flutter in 2021.
-- 🌍 I'm available to work remotely.
+-<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br> 🌍 I'm available to work remotely.
 
 ## 📚 Currently Learning:
 - Serverless architecture with Firebase and Google Cloud
 -  Advanced UI/UX design 
 -  Performance optimization for mobile application
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ## 📫 How to reach me:
 
@@ -48,11 +62,22 @@ I'm open to new opportunities where I can leverage my skills in Flutter developm
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
 </div>
 
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 ## 🛠 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,xd,postman" /><br>
 </div>
 
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
