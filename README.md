@@ -37,21 +37,12 @@ I'm open to new opportunities where I can leverage my skills in Flutter developm
 ## 👩‍💻 About Me:
 - 🎓 I graduated from the Computer Science Software Engineering department, Mansoura University.
 - 🚀 I started learning Flutter in 2021.
--<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br> 🌍 I'm available to work remotely.
+- 🌍 I'm available to work remotely.
 
 ## 📚 Currently Learning:
 - Serverless architecture with Firebase and Google Cloud
 -  Advanced UI/UX design 
 -  Performance optimization for mobile application
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
 ## 📫 How to reach me:
 
@@ -61,12 +52,6 @@ I'm open to new opportunities where I can leverage my skills in Flutter developm
     <a href="mailto:mariamelkhelawy2001W@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
 </div>
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
 ## 🛠 Languages and Tools:
 <div align="center">
