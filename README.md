@@ -28,11 +28,6 @@ I'm Mariam Elkhelawy, a highly ambitious and detail-oriented software engineer w
 
 ## 🌟 Available for New Opportunities:
 I'm open to new opportunities where I can leverage my skills in Flutter development and contribute to exciting projects. Feel free to reach out if you have an opportunity that aligns with my skills and experience.
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
 ## 👩‍💻 About Me:
 - 🎓 I graduated from the Computer Science Software Engineering department, Mansoura University.
