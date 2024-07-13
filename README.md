@@ -9,9 +9,6 @@
 I'm Mariam Elkhelawy, a highly ambitious and detail-oriented software engineer with a passion for Flutter development . Since I started learning Flutter in 2021, I have been dedicated to developing applications that meet exact requirements and deliver exceptional user experiences. I learn quickly and am available to work.
 
 ## 📊 My Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Elkhelawy&theme=dark)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam-Elkhelawy&show_icons=true&theme=dark)
-
 <p align="center">
     <a href="https://github.com/Mariam-Elkhelawy/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mariam Elkhelawy streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Elkhelawy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
