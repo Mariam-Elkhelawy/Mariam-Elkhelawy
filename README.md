@@ -1,7 +1,6 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mariam+Elkhelawy!+👩🏻‍💻;" />
 </div>
-
 <br>
 
 ## About Me 🙋🏻‍♀
@@ -28,9 +27,9 @@ I'm Mariam Elkhelawy, a highly ambitious and detail-oriented software engineer w
 I'm open to new opportunities where I can leverage my skills in Flutter development and contribute to exciting projects. Feel free to reach out if you have an opportunity that aligns with my skills and experience.
 
 ## 📚 Currently Learning:
-- Serverless architecture with Firebase and Google Cloud
--  Advanced UI/UX design 
--  Performance optimization for mobile application
+- Android development basics. 
+-  Advanced UI/UX design. 
+-  Performance optimization for mobile application. 
 
 ## 📫 How to reach me:
 
