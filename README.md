@@ -27,7 +27,7 @@ I'm Mariam Elkhelawy, a highly ambitious and detail-oriented software engineer w
 I'm open to new opportunities where I can leverage my skills in Flutter development and contribute to exciting projects. Feel free to reach out if you have an opportunity that aligns with my skills and experience.
 
 ## 📚 Currently Learning:
-- Android development basics -(Java - kotlin) . 
+- Android development basics (Java - kotlin) . 
 -  Advanced UI/UX design. 
 -  Performance optimization for mobile application. 
 
