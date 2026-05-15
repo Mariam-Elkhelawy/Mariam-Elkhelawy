@@ -16,20 +16,16 @@ I'm detail-oriented, a fast learner, and always eager to improve my technical an
 
 ## 📊 My Stats
 
-## 📊 My Stats
-
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Mariam-Elkhelawy&theme=black-ice&hide_border=true&background=060A0CD0" />
+    <img src="https://streak-stats.demolab.com/?user=Mariam-Elkhelawy&theme=black-ice&hide_border=true&background=060A0CD0" />
 </p>
 
 <p align="center">
-    <img alt="Mariam Elkhelawy Github Stats"
-        src="https://github-readme-stats.vercel.app/api?username=Mariam-Elkhelawy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
-        height="180em"/>
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=Mariam-Elkhelawy&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img alt="Mariam Elkhelawy Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Elkhelawy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-        height="180em"/>
+<img height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Elkhelawy&layout=compact&langs_count=8&theme=react&hide_border=true" />
 </p>
 
 <br>
