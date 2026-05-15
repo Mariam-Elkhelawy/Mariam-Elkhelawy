@@ -30,12 +30,6 @@ I'm detail-oriented, a fast learner, and always eager to improve my technical an
 
 <br>
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<br>
-
 ## 💼 Experience
 
 ### Flutter Developer — Sep 2024 - Present
@@ -83,12 +77,6 @@ I'm detail-oriented, a fast learner, and always eager to improve my technical an
 
 <br>
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<br>
-
 ## 📫 How to Reach Me
 
 <div align="center">
@@ -99,12 +87,6 @@ I'm detail-oriented, a fast learner, and always eager to improve my technical an
 <a href="mailto:mariamelkhelawy2001W@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
 <br>
