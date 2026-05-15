@@ -22,15 +22,13 @@ I'm detail-oriented, a fast learner, and always eager to improve my technical an
 ## 📊 My Stats
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Mariam-Elkhelawy&theme=black-ice&hide_border=true&background=060A0CD0" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mariam-Elkhelawy&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-    <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=Mariam-Elkhelawy&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Elkhelawy&layout=compact&langs_count=8&theme=react&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Elkhelawy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em"/>
+    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Elkhelawy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em"/>
 </p>
 
 <br>
