@@ -14,6 +14,20 @@ I'm detail-oriented, a fast learner, and always eager to improve my technical an
 
 <br>
 
+## 📊 My Stats
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Elkhelawy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
+<p align="center">
+    <img alt="Mariam Elkhelawy Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mariam-Elkhelawy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="180em"/>
+
+<img alt="Mariam Elkhelawy Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Elkhelawy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180em"/>
+</p>
+
+<br>
+
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
@@ -69,26 +83,6 @@ I'm detail-oriented, a fast learner, and always eager to improve my technical an
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
-
-<br>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<br>
-
-## 📊 My Stats
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Elkhelawy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
-
-<p align="center">
-    <img alt="Mariam Elkhelawy Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mariam-Elkhelawy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-
-<img alt="Mariam Elkhelawy Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Elkhelawy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
 
 <br>
 
