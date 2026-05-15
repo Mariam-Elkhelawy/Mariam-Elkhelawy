@@ -4,6 +4,11 @@
 
 <br>
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 ## 🙋🏻‍♀ About Me
 
 I'm Mariam Elkhelawy, a passionate Flutter Developer focused on building clean, responsive, and user-friendly mobile applications.
@@ -90,7 +95,10 @@ I'm detail-oriented, a fast learner, and always eager to improve my technical an
 </div>
 
 <br>
-
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Let's+Connect+on+LinkedIn!;+I'm+a+Lifelong+Learner+🚀" />
 </h3>
